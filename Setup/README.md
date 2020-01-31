@@ -4,7 +4,7 @@
 Datos del creador: López Rivera Vanessa Elizabeth
 
 
-##Instalación de dotnet core 2.2.
+#Instalación de dotnet core 2.2.
 
 1.Para la instalación de dotnet core 2.2 debes de dirigirte al siguiente link mediante tu navegador de preferencia. 
 Link a la página de descarga: [Download](https://dotnet.microsoft.com/download/dotnet-core/2.2) 
