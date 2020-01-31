@@ -13,7 +13,9 @@ Es impotante bajar el SDK, por que **vamos a programar**.
 
 La página se ve de la siguiente manera:
 
+[Imagen](./img/colocar-el-nombre-de-la-imagen)
 
+[Imag](./img/)
 
 2.Una vez en el sitio deberás de buscar el que se acople al tipo de ordenador que poseas
 
