@@ -15,7 +15,7 @@ La página se ve de la siguiente manera:
 
 [Imagen](./img/colocar-el-nombre-de-la-imagen)
 
-![Imag](./img/91L6.png)
+![Imag](./Img/91L6.png)
 
 2.Una vez en el sitio deberás de buscar el que se acople al tipo de ordenador que poseas
 
