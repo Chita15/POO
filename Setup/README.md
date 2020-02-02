@@ -48,6 +48,20 @@ Lo subrayado en rojo nos dice que la instalación ha sido exitosa asi que por ú
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
-**1.** Para descargar Visual Studio Code ingresa al siguiente link de descarga: (https://code.visualstudio.com/)
+**1.** Para descargar Visual Studio Code ingresa al siguiente link de descarga: [DowloadVSC](https://code.visualstudio.com/)
+
+Una vez ahí nos aparecerá la siguiente página:
+
+![Imagen1](./ImagenesTuto/VisualStudioPage01.jpg)
+
+**2.** Para iniciar la descarga daremos click en el cuadro azul. 
+
+![Imagen2](./ImagenesTuto/VisualDownload02.jpg)
+
+*Si el sistema operativo que apareceré en un inicio no es acorde al tuyo,da click en la flecha blanca para que despliegue las otras opciones de descarga y selecciona la que necesites.*
+
+![Imagen2.1](./ImagenesTuto/Despliegue21.jpg)
+
+**3.**
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
