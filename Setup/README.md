@@ -1,23 +1,23 @@
-"Ejercicio de Markdown en Github"
+#**Ejercicio de Markdown en Github**
 
 
 Datos del creador: López Rivera Vanessa Elizabeth
 
 
-#Instalación de dotnet core 2.2.
+##Instalación de dotnet core 2.2.
 
-1.Para la instalación de dotnet core 2.2 debes de dirigirte al siguiente link mediante tu navegador de preferencia. 
+1.Para la instalación de dotnet core 2.2 debes de dirigirte al siguiente link para poder . 
+
 Link a la página de descarga: [Download](https://dotnet.microsoft.com/download/dotnet-core/2.2) 
 
-Es impotante bajar el SDK, por que **vamos a programar**.
+Cuando ingreses a la página de descarga podrás visualizar algo como lo siguiente:
+![Imagen1](./ImagenesTuto/VisualizarPagina.jpg)
 
-La página se ve de la siguiente manera:
+2.Una vez en el sitio deberás de bajar con el curso 
 
-[Imagen](./img/colocar-el-nombre-de-la-imagen)
+![Imagen2](./ImagenesTuto/PaqueteDescarga2.jpg)
 
-![Imag](./Img/91l6.png)
-
-2.Una vez en el sitio deberás de buscar el que se acople al tipo de ordenador que poseas
+Nota: Es impotante bajar el SDK, por que **vamos a programar**.
 
 ##Instalación y configuración de Visual Studio Code para C#.
 
