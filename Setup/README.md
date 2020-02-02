@@ -33,7 +33,7 @@ En este caso descargaremos el marcado como Windows x64 por el tipo de computador
 
 Daremos click en donde dice **Install**
 
-![Imagen5.1](./ImagenesTuto/Instalación08.jpg)
+------------![Imagen5.1](./ImagenesTuto/Instalación08.jpg)
 
 **5.** Aparecerá una barra de progreso como se muestra en la imagen. Habrá que esperar a que termine el progreso.
 
