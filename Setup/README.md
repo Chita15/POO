@@ -17,7 +17,8 @@ Cuando ingreses a la página podrás visualizar algo como lo siguiente:
 
    ![Imagen2](./ImagenesTuto/05.jpg)
 
-En este caso descargaremos el marcado como Windows x64 por el tipo de computadora que se esta usando en el tutorial. Asi que lo seleccionaremos
+En este caso descargaremos el marcado como Windows x64 por el tipo de computadora que se esta usando en el tutorial. Asi que lo seleccionaremos. 
+*(Si tu computadora es de un sistema operativo diferente, selecciona la opción que se adapte a las características de tu computadora).*
 
    ![Imagen3](./ImagenesTuto/06.jpg)
 
