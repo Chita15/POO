@@ -13,7 +13,7 @@ Link a la página de descarga: [Download](https://dotnet.microsoft.com/download/
 Cuando ingreses a la página podrás visualizar algo como lo siguiente:
    ![Imagen1](./ImagenesTuto/VisualizarPagina.jpg)
 
-**2.** Una vez en el sitio podremos ver las siguientes opciones de descarga
+**2.** Una vez en el sitio podremos ver las siguientes opciones de descarga:
 
    ![Imagen2](./ImagenesTuto/05.jpg)
 
@@ -28,7 +28,7 @@ En este caso descargaremos el marcado como Windows x64 por el tipo de computador
 
    ![Imagen4](./ImagenesTuto/DescargaIniciada4.jpg)
 
-**4.** Una vez finalizada la descarga continuaremos dando click en el recuadro. Nos aparecerá el siguiente cuadro de instalación.
+**4.** Una vez finalizada la descarga continuaremos dando click en el recuadro. Nos aparecerá el siguiente cuadro de instalación:
 
    ![Imagen5](./ImagenesTuto/Instalación07.jpg)
 
@@ -40,7 +40,7 @@ Daremos click en donde dice **Install**
 
    ![Imagen6](./ImagenesTuto/Progreso09.jpg)
 
-**6.** Una vez finalizada la instalación aparecerá lo siguiente.
+**6.** Una vez finalizada la instalación aparecerá lo siguiente:
 
    ![Imagen7](./ImagenesTuto/Finalizada10.jpg)
 
@@ -62,7 +62,7 @@ Una vez ahí nos aparecerá la siguiente página:
 
 ![Imagen2.1](./ImagenesTuto/Despliegue21.jpg)
 
-**3.** Una vez iniciada la descarga, aparecerá el siguiente mensaje
+**3.** Una vez iniciada la descarga, aparecerá el siguiente mensaje:
 
 ![Imagen3](./ImagenesTuto/InicioDes03.jpg)
 
@@ -72,7 +72,7 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen4](./ImagenesTuto/InstaVSC04.jpg)
 
-Daremos click en siguiente par continuar con la instalación
+Daremos click en siguiente para continuar con la instalación
 
 **5.**
 
