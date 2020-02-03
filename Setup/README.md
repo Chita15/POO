@@ -17,7 +17,7 @@ Cuando ingreses a la página podrás visualizar algo como lo siguiente:
 
    ![Imagen2](./ImagenesTuto/05.jpg)
 
-En este caso descargaremos el marcado como Windows x64 por el tipo de computadora que se esta usando en el tutorial. Asi que lo seleccionaremos. 
++ En este caso descargaremos el marcado como Windows x64 por el tipo de computadora que se esta usando en el tutorial. Asi que lo seleccionaremos. 
 *(Si tu computadora es de un sistema operativo diferente, selecciona la opción que se adapte a las características de tu computadora).*
 
    ![Imagen3](./ImagenesTuto/06.jpg)
@@ -44,7 +44,7 @@ Daremos click en donde dice **Install**
 
    ![Imagen7](./ImagenesTuto/Finalizada10.jpg)
 
-Lo subrayado en rojo nos dice que la instalación ha sido exitosa asi que por último daremos click en **Close** para cerrar el cuadro, y con ello abremos finalizado la instalación del dotnet core 2.2
++ Lo subrayado en rojo nos dice que la instalación ha sido exitosa asi que por último daremos click en **Close** para cerrar el cuadro, y con ello abremos finalizado la instalación del dotnet core 2.2
 
 ## Instalación y configuración de Visual Studio Code para C#.
 
@@ -58,7 +58,7 @@ Una vez ahí nos aparecerá la siguiente página:
 
 ![Imagen2](./ImagenesTuto/VisualDownload02.jpg)
 
-*Si el sistema operativo que apareceré en un inicio no es acorde al tuyo, da click en la flecha blanca para que despliegue las otras opciones de descarga y selecciona la que necesites.*
++ *Si el sistema operativo que apareceré en un inicio no es acorde al tuyo, da click en la flecha blanca para que despliegue las otras opciones de descarga y selecciona la que necesites.*
 
 ![Imagen2.1](./ImagenesTuto/Despliegue21.jpg)
 
@@ -66,7 +66,7 @@ Una vez ahí nos aparecerá la siguiente página:
 
 ![Imagen3](./ImagenesTuto/InicioDes03.jpg)
 
-Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Code. En la parte inferior izquierda vemos que aparece el progreso de la descarga, el cual tendremos que esperar a que finalice para iniciar con la instalación. 
++ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Code. En la parte inferior izquierda vemos que aparece el progreso de la descarga, el cual tendremos que esperar a que finalice para iniciar con la instalación. 
 
 **4.** Ya que se ha descargado y hemos dado click para instalar, aparecerá un cuadro como el siguiente:
 
@@ -80,7 +80,7 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen6](./ImagenesTuto/Continuar05.jpg)
 
--Lo marcado en negro son las opciones adicionales que nos da para instalar. En este caso asi lo dejaremos, sin embargo, si quiere anexar alguna solo da click en los cuadros que se encuentran a lado de las opciones. Por último daremos click en **Next >** (subrayado en rojo).
++ Lo marcado en negro son las opciones adicionales que nos da para instalar. En este caso asi lo dejaremos, sin embargo, si quiere anexar alguna solo da click en los cuadros que se encuentran a lado de las opciones. Por último daremos click en **Next >** (subrayado en rojo).
 
 **7.** Después saldrá lo siguiente:
 
@@ -100,6 +100,9 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen10](./ImagenesTuto/LogoVSC10.jpg)
 
+**Añadir C# para trabajar con el**
+
+**1.** Para agregar C# a Visual Studio Code instalaremos la extensión del mismo.
 
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
