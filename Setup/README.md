@@ -103,6 +103,30 @@ Una vez ahí nos aparecerá la siguiente página:
 **Añadir C# para trabajar con el**
 
 **1.** Para agregar C# a Visual Studio Code instalaremos la extensión del mismo.
+Link de descarga desde la web: [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
+-La página se visualizará de la siguiente manera:
+
+![Imagen1](./ImagenesTuto/InstalarC#.jpg)
+
+**2.** Daremos click en **Install** para descargar.
+
+![Imagen2](./ImagenesTuto/InstallC#.jpg)
+
+**3.** Después nos aparecerá la siguiente ventana emergente en la cual pedirá como requisito tener instalado VisualSC. Pulsamos el botón **Abrir Visual Studio Code**
+
+![Imagen3](./ImagenesTuto/PermisoC#.jpg)
+
+**4.** Se abrirá VisualSC, aparecerá la extensión y únicamente deberemos de pulsar **Install** para comenzar.
+
+![Imagen4](./ImagenesTuto/CercasC#.jpg)
+
+**5.** Ya que termine la instalación habrá que dar click en el botón de recarga para pode recargar el IDE.
+
+![Imagen5](./ImagenesTuto/RecargaC#.jpg)
+
+Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder trabajar empleado C#. 
+
+**Nota:** .Net Core debe de estar instalado también para Visual Studio Code para asi trabajar tanto con C# como con .Net Core
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
