@@ -72,8 +72,32 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen4](./ImagenesTuto/InstaVSC04.jpg)
 
-Daremos click en siguiente para continuar con la instalación
+**5.** Daremos click en **I accept the agreement** y luego en **Next >** para continuar con la instalación. Tal y como está señalado en la imagen siguiente:
 
-**5.**
+![Imagen5](./ImagenesTuto/InstaVSC05.jpg)
+
+**6.** Posterior a ello nos mostrará lo siguiente:
+
+![Imagen6](./ImagenesTuto/Continuar05.jpg)
+
+-Lo marcado en negro son las opciones adicionales que nos da para instalar. En este caso asi lo dejaremos, sin embargo, si quiere anexar alguna solo da click en los cuadros que se encuentran a lado de las opciones. Por último daremos click en **Next >** (subrayado en rojo).
+
+**7.** Después saldrá lo siguiente:
+
+![Imagen7](./ImagenesTuto/Continuar06.jpg)
+
+-Daremos click en **Install** para que comience a instalarse el programa.
+
+**8.** Aparecerá una barra de progreso la cual deberemos de esperar a que se llene para poder finalizar con la instalación.
+
+![Imagen8](./ImagenesTuto/ProgresoVSC07.jpg)
+
+**9.** Por último, saldrá el siguiente mensaje de que la instalación ha finalizado y con ello ya podemos comenzar a usar Visual Studio Code. Ahora solo abra que dar click en **Close**
+
+![Imagen9](./ImagenesTuto/FinalVSC08.jpg)
+
+**10.** Ahora iremos al escritorio y podremos ver el icono de Visual Studio Code, solo daremos click y el programa se abrirá para poder usarse.
+
+![Imagen10](./ImagenesTuto/LogoVSC10.jpg)
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
