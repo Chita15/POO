@@ -107,7 +107,7 @@ Link de descarga desde la web: [C#](https://marketplace.visualstudio.com/items?i
 
 -La página se visualizará de la siguiente manera:
 
-![Imagen1](../ImagenesTuto/InstalarC#.jpg)
+![Imagen1](../ImagenesTuto/C#/InstalarC#.jpg)
 
 **2.** Daremos click en **Install** para descargar.
 
