@@ -92,7 +92,7 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen8](./ImagenesTuto/ProgresoVSC07.jpg)
 
-**9.** Por último, saldrá el siguiente mensaje de que la instalación ha finalizado y con ello ya podemos comenzar a usar Visual Studio Code. Ahora solo abra que dar click en **Close**
+**9.** Por último, saldrá el siguiente mensaje de que la instalación ha finalizado y con ello ya podemos comenzar a usar Visual Studio Code. Ahora solo abra que dar click en **Finish**
 
 ![Imagen9](./ImagenesTuto/FinalVSC08.jpg)
 
