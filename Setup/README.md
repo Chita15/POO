@@ -173,7 +173,7 @@ Aquí daremos click en **Next >** y nos aparecerá lo siguiente donde igual dare
 ![Imagen12](./ImagenesTuto/Git12.jpg)
 ![Imagen13](./ImagenesTuto/Git13.jpg)
 
-## Instalaciones completadas, gracias por la atención.
+## Instalaciones completadas, esperemos te haya sido de utilidad. Gracias por la atención.
 
 
 
