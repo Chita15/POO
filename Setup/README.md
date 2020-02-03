@@ -130,3 +130,20 @@ Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder t
 **Nota:** .Net Core debe de estar instalado también para Visual Studio Code para asi trabajar tanto con C# como con .Net Core
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
+
+**1.** Para descargar git es necesario ingresar al siguiente link:
+[Git](https://git-scm.com/)
+
+-Una vez ahí visualizaremos la siguiente página:
+
+![Imagen01](./ImagenesTuto/Git1.jpg)
+
+**2.** Nos dirigiremos a donde esta el ordenador y daremos click en **Download** para dar inicio con la descarga.
+
+![Imagen2](./ImagenesTuto/Git2.jpg)
+
+**3.** Una vez que inicie nos aparecerá lo siguiente y en la esquina inferior izquierda podremos ver el progreso de la descarga.
+
+![Imagen3](./ImagenesTuto/Git3.jpg)
+
+**4.** 
