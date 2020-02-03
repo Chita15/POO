@@ -58,10 +58,22 @@ Una vez ahí nos aparecerá la siguiente página:
 
 ![Imagen2](./ImagenesTuto/VisualDownload02.jpg)
 
-*Si el sistema operativo que apareceré en un inicio no es acorde al tuyo,da click en la flecha blanca para que despliegue las otras opciones de descarga y selecciona la que necesites.*
+*Si el sistema operativo que apareceré en un inicio no es acorde al tuyo, da click en la flecha blanca para que despliegue las otras opciones de descarga y selecciona la que necesites.*
 
 ![Imagen2.1](./ImagenesTuto/Despliegue21.jpg)
 
-**3.**
+**3.** Una vez iniciada la descarga, aparecerá el siguiente mensaje
+
+![Imagen3](./ImagenesTuto/InicioDes03.jpg)
+
+Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Code. En la parte inferior izquierda vemos que aparece el progreso de la descarga, el cual tendremos que esperar a que finalice para iniciar con la instalación. 
+
+**4.** Ya que se ha descargado y hemos dado click para instalar, aparecerá un cuadro como el siguiente:
+
+![Imagen4](./ImagenesTuto/InstaVSC04.jpg)
+
+Daremos click en siguiente par continuar con la instalación
+
+**5.**
 
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
