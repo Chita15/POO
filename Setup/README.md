@@ -111,19 +111,19 @@ Link de descarga desde la web: [C#](https://marketplace.visualstudio.com/items?i
 
 **2.** Daremos click en **Install** para descargar.
 
-![Imag2](./ImagenesTuto/)
+![Imag2](./ImagenesTuto/InstalarC.jpg)
 
 **3.** Después nos aparecerá la siguiente ventana emergente en la cual pedirá como requisito tener instalado VisualSC. Pulsamos el botón **Abrir Visual Studio Code**
 
-![Imag3](./ImagenesTuto/)
+![Imag3](./ImagenesTuto/ActivarC.jpg)
 
 **4.** Se abrirá VisualSC, aparecerá la extensión y únicamente deberemos de pulsar **Install** para comenzar.
 
-![Imag4](./ImagenesTuto/)
+![Imag4](./ImagenesTuto/InstallC.jpg)
 
 **5.** Ya que termine la instalación habrá que dar click en el botón de recarga para pode recargar el IDE.
 
-![Imag5](./ImagenesTuto/)
+![Imag5](./ImagenesTuto/RecargarC.jpg)
 
 Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder trabajar empleado C#. 
 
