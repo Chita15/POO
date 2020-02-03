@@ -146,4 +146,32 @@ Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder t
 
 ![Imagen3](./ImagenesTuto/Git3.jpg)
 
-**4.** 
+**4.** Ya finalizada la descarga, procederemos a abrir el archivo y se nos generará el siguiente recuadro:
+
+![Imagen4](./ImagenesTuto/Git4.jpg)
+
+Aquí daremos click en **Next >** y nos aparecerá lo siguiente donde igual daremos click en **Next >**
+
+![Imagen5](./ImagenesTuto/git5.jpg)
+
+**5.** En este paso debemos de verificar que diga **Visual Studio Code**. En caso de que dijera alguna otra cosa, desplegamos las opciones y seleccionamos la que indique Visual Studio Code como se muestra en la imagen. Posteriormente damos click en **Next >**
+
+![Imagen6](./ImagenesTuto/Git6.jpg)
+
+**6.** Continuaremos dando click en **Next** en los campos siguientes.
+![Imagen7](./ImagenesTuto/Git7.jpg)
+![Imagen8](./ImagenesTuto/Git8.jpg)
+![Imagen9](./ImagenesTuto/Git009.jpg)
+![Imagen10](./ImagenesTuto/Git10.jpg)
+
+**7.** Daremos click en **Install** para que comiencé con el progreso y se finalicé la instalación.
+
+![Imagen11](./ImagenesTuto/Git11.jpg)
+
+**8.** Un vez llegado aquí esperaremos a que se termine el progreso de intalación para poder usar git.
+
+![Imagen12](./ImagenesTuto/Git12.jpg)
+
+**Enlazar con cuenta de Github y VSC**
+
+
