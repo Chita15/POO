@@ -168,10 +168,10 @@ Aquí daremos click en **Next >** y nos aparecerá lo siguiente donde igual dare
 
 ![Imagen11](./ImagenesTuto/Git11.jpg)
 
-**8.** Un vez llegado aquí esperaremos a que se termine el progreso de intalación para poder usar git.
+**8.** Un vez llegado aquí esperaremos a que se termine el progreso de intalación para poder usar git y al final daremos en **Finish**.
 
 ![Imagen12](./ImagenesTuto/Git12.jpg)
 
-**Enlazar con cuenta de Github y VSC**
+
 
 
