@@ -158,7 +158,7 @@ Aquí daremos click en **Next >** y nos aparecerá lo siguiente donde igual dare
 
 ![Imagen6](./ImagenesTuto/Git6.jpg)
 
-**6.** Continuaremos dando click en **Next** en los campos siguientes.
+**6.** Continuaremos dando click en **Next >** en los campos siguientes.
 ![Imagen7](./ImagenesTuto/Git7.jpg)
 ![Imagen8](./ImagenesTuto/Git8.jpg)
 ![Imagen9](./ImagenesTuto/Git009.jpg)
