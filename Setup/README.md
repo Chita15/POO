@@ -125,7 +125,7 @@ Link de descarga desde la web: [C#](https://marketplace.visualstudio.com/items?i
 
 ![Imag5](./ImagenesTuto/RecargarC.jpg)
 
-Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder trabajar empleado C#. 
+Con esto ya tendríamos nuestro entorno de Visual Studio Code listo para poder trabajar empleando C#. 
 
 **Nota:** .Net Core debe de estar instalado también para Visual Studio Code para asi trabajar tanto con C# como con .Net Core
 
