@@ -100,4 +100,6 @@ Lo señalado en rojo es un agradecimiento por haber descargado Visual Studio Cod
 
 ![Imagen10](./ImagenesTuto/LogoVSC10.jpg)
 
+
+
 ## Instalación de git. conectado a tu cuenta de GitHub y VSC.
