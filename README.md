@@ -2,7 +2,7 @@
 
 Usuario: Chita15
 
-Escuela: Instituto Nacional de México
+Escuela: Tecnológico Nacional de México
 
 Materia: Programación Orientada a Objetos   
 
