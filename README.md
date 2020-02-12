@@ -1,6 +1,9 @@
 # POO
 
 Usuario: Chita15
-Nombre del Repositorio: Setup
+
+Materia: Programación Orientada a Objetos
+
+Semestre: 2 
 
 [Actividad 1](./Setup/README.md)
