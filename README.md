@@ -8,6 +8,6 @@ Materia: Programación Orientada a Objetos
 
 ## Índice de Evidencias:
 
-[Actividad 1](./Setup/README.md)
+[Actividad 1](./Setup/README.md) Ejercicio de Markdown en Github
 
-[Actividad 2]()
+[Actividad 2](./Peliculas/Program.cs) Programa básico Películas
