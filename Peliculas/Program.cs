@@ -8,8 +8,6 @@ namespace Peliculas
         public int año;
         public string pais;
         public string director;
-
-
     }
     class Program
     {
@@ -21,7 +19,7 @@ namespace Peliculas
             //peli1.pais="Corea del Sur";
             //peli1.director="Boong Joon-ho";
 
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli1.titulo, peli1.año, peli1.pais, peli1.director);
+            Console.WriteLine("Título:{0} Año:{1}", peli1.titulo, peli1.año, peli1.pais, peli1.director);
 
             Pelicula peli2= new Pelicula();
             peli2.titulo="Green Book";
@@ -29,7 +27,7 @@ namespace Peliculas
             //peli2.pais="Canadá";
             //peli2.director="Peter Farrelly";
 
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli2.titulo, peli2.año, peli2.pais, peli2.director);
+            Console.WriteLine("Título:{0} Año:{1}", peli2.titulo, peli2.año, peli2.pais, peli2.director);
         }
     }
 }
