@@ -65,7 +65,7 @@ namespace Peliculas
             peli2.SetTitulo("Green Book");
             peli2.SetAño(2018);
             peli2.SetPais("Canadá");
-            peli2.SetDirector("Peter Farrelly");
+            peli2.SetDirector("Peter Farrelly");////
 
             Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli2.GetTitulo(), peli2.GetAño(), peli2.GetPais(), peli2.GetDirector());
         }
