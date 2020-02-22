@@ -9,70 +9,46 @@ namespace PELICULA
         private string pais;
         private string director;
 
-                public string GetTitulo()
-        {
-            return titulo;
-        }
+    //Constructor Pelicula() con parámetros
+    public Pelicula(string titulo, int año, string pais, string director)
+    {
+        this.titulo = titulo;
+        this.año = año; 
+        this.pais = pais;
+        this.director = director;
+    }
 
-        public void SetTitulo(string t)
-        {
-            titulo = t;
-        }
+    public void imprime()//Este es un metódo
+    {
+			Console.WriteLine("Titulo:{0} Año:{1} Director:{2} País:{3}", this.titulo, this.año, this.pais, this.director);
+    }
 
-        public int GetAño()
-        {
-            return año;
-        }
+       //Constructor Pelicula(). Se generó este constructor que también manda valores a imprimir, sin embargo se comentó
+       //y únicamente se empleo el constructor Pelicula(string...)
+    
+          //public Pelicula()
+         //{
+            //pais= "Corea del Sur";
+           //director = "Boong Go";
+         //}
 
-        public void SetAño(int a)
-        {
-            año = a;
-        }
-
-        public string GetPais()
-        {
-            return pais;
-        }
-
-        public void SetPais(string p)
-        {
-            pais = p;
-        }
-
-        public string GetDirector()
-        {
-            return director;
-        }
-
-        public void SetDirector(string d)
-        {
-            director = d;
-        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            //Creación del objeto peli1 y uso de Set y Get para asignar valores. Primer pelicula ganadora del oscar
-            Pelicula peli1 = new Pelicula();
-            peli1.SetTitulo("Parasites");
-            peli1.SetAño(2019);
-            peli1.SetPais("Corea del Sur");
-            peli1.SetDirector("Boong Joon-ho");
+             //Objeto 1 = Primer pelicula ganadora del oscar
+            Pelicula Pelicula1 = new Pelicula("Parasites", 2019, "Boong Joo-Ho", "Corea del Sur");          
 
-            //Impresión de los datos
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli1.GetTitulo(), peli1.GetAño(), peli1.GetPais(), peli1.GetDirector());
+            //Llamada del método imprime()
+            Pelicula1.imprime();
 
-            //Creación del peli2 con uso de Set y Get. Segunda pelicula ganadora del oscar.
-            Pelicula peli2 = new Pelicula();
-            peli2.SetTitulo("Green Book");
-            peli2.SetAño(2018);
-            peli2.SetPais("Canadá");
-            peli2.SetDirector("Peter Farrelly");
+            //Objeto2 = Segunda palicula ganadora dle oscar
+            Pelicula Pelicula2 = new Pelicula("Green Book", 2018, "Peter Farrelly", "Canadá");
 
-            //Impresión de los datos de la segunda pelicula seleccionada
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli2.GetTitulo(), peli2.GetAño(), peli2.GetPais(), peli2.GetDirector());
+            //Llamada del método imprime()
+            Pelicula2.imprime();
         }
     }
 }
