@@ -4,9 +4,9 @@ Usuario: Chita15
 
 Escuela: Tecnológico Nacional de México
 
-Materia: Programación Orientada a Objetos 
-
 ![FondoImagen](./Setup/Img/Verde.jpg)
+
+**Materia: Programación Orientada a Objetos** 
 
 ## Índice de Evidencias:
 
