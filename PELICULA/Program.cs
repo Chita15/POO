@@ -64,7 +64,7 @@ namespace PELICULA
             //Impresión de los datos
             Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli1.GetTitulo(), peli1.GetAño(), peli1.GetPais(), peli1.GetDirector());
 
-            //Creación del peli2 con uso de Set y Get. Segunda pelicula ganadora del oscar
+            //Creación del peli2 con uso de Set y Get. Segunda pelicula ganadora del oscar.
             Pelicula peli2 = new Pelicula();
             peli2.SetTitulo("Green Book");
             peli2.SetAño(2018);
