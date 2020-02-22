@@ -10,4 +10,4 @@ Materia: Programación Orientada a Objetos
 
 [Actividad 1](./Setup/README.md) Ejercicio de Markdown en Github
 
-[Actividad 2](./Peliculas/Program.cs) Programa básico Películas
+[Actividad 2](./PELICULA/Program.cs) Programa básico Películas
