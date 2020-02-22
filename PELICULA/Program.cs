@@ -20,7 +20,7 @@ namespace PELICULA
             //peli1.pais="Corea del Sur";---> Se comentan ya que el ejercicio solicita solo el Titulo y año
             //peli1.director="Boong Joon-ho";--->Misma razón, ya mencionada antes
 
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli1.titulo, peli1.año, peli1.pais, peli1.director);
+            Console.WriteLine("Título:{0} Año:{1}", peli1.titulo, peli1.año, peli1.pais, peli1.director);
 
              //Creación del objeto peli2. Datos de la segunda pelicula ganadora a oscar a asignar
             Pelicula peli2= new Pelicula();
@@ -29,7 +29,7 @@ namespace PELICULA
             //peli2.pais="Canadá"; ---> Se comentan ya que el ejercicio solicita solo el Titulo y año
             //peli2.director="Peter Farrelly"; --->Misma razón, ya mencionada antes
 
-            Console.WriteLine("Título:{0} Año:{1} País:{2} Director:{3}", peli2.titulo, peli2.año, peli2.pais, peli2.director);
+            Console.WriteLine("Título:{0} Año:{1}", peli2.titulo, peli2.año, peli2.pais, peli2.director);
         }
     }
 }
