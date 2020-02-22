@@ -1,8 +1,8 @@
 # POO
 
-Usuario: Chita15
+**Usuario: Chita15**
 
-Escuela: Tecnológico Nacional de México
+**Escuela: Tecnológico Nacional de México**
 
 ![FondoImagen](./Setup/Img/Verde.jpg)
 
@@ -10,6 +10,6 @@ Escuela: Tecnológico Nacional de México
 
 ## Índice de Evidencias:
 
-[Actividad 1](./Setup/README.md) Ejercicio de Markdown en Github
+[Actividad 1](./Setup/README.md) _Ejercicio de Markdown en Github_
 
-[Actividad 2](./PELICULA/Program.cs) Programa básico Películas
+[Actividad 2](./PELICULA/Program.cs) _Programa básico Películas_
