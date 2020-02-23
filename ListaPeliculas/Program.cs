@@ -23,11 +23,18 @@ namespace ListaPeliculas
             List<Pelicula> estrenos= new List<Pelicula>();
 
             //Lista de peliculas
-            estrenos.Add(new Pelicula("El señor de los anillos"));
-            estrenos.Add(new Pelicula("Titanic"));
-            estrenos.Add(new Pelicula("Kung Fu Panda"));
-            estrenos.Add(new Pelicula("Coco"));
-            estrenos.Add(new Pelicula("Jurassic Park"));
+            estrenos.Add(new Pelicula("1.El señor de los anillos"));
+            estrenos.Add(new Pelicula("2.Titanic"));
+            estrenos.Add(new Pelicula("3.Kung Fu Panda"));
+            estrenos.Add(new Pelicula("4.Coco"));
+            estrenos.Add(new Pelicula("5.Jurassic Park"));
+
+            //Impresión anteriormente usada
+            //estrenos[0].imprime();
+            //estrenos[1].imprime();
+            //estrenos[2].imprime();
+            //estrenos[3].imprime();
+            //estrenos[4].imprime();
 
             //Ciclo foreach
             foreach(Pelicula a in estrenos)
