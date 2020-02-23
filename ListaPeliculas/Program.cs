@@ -20,19 +20,19 @@ namespace ListaPeliculas
     {
         static void Main(string[] args)
         {
-            List<Pelicula> alumnos= new List<Pelicula>();
+            List<Pelicula> estrenos= new List<Pelicula>();
 
-            alumnos.Add(new Pelicula("El señor de los anillos"));
-            alumnos.Add(new Pelicula("Titanic"));
-            alumnos.Add(new Pelicula("Kung Fu Panda"));
-            alumnos.Add(new Pelicula("Coco"));
-            alumnos.Add(new Pelicula("Jurassic Park"));
+            estrenos.Add(new Pelicula("El señor de los anillos"));
+            estrenos.Add(new Pelicula("Titanic"));
+            estrenos.Add(new Pelicula("Kung Fu Panda"));
+            estrenos.Add(new Pelicula("Coco"));
+            estrenos.Add(new Pelicula("Jurassic Park"));
 
-            alumnos[0].imprime();
-            alumnos[1].imprime();
-            alumnos[2].imprime();
-            alumnos[3].imprime();
-            alumnos[4].imprime();
+            estrenos[0].imprime();
+            estrenos[1].imprime();
+            estrenos[2].imprime();
+            estrenos[3].imprime();
+            estrenos[4].imprime();
         }
     }
 }
