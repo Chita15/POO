@@ -7,11 +7,11 @@ namespace ListaPeliculas
     {
         public string titulo;
 
-        public void imprime()//Este es un metódo
+        public void imprime()//Este es el metódo imprime
         {
             Console.WriteLine(titulo);
         }
-        public Pelicula(string n)//Este es el constructor
+        public Pelicula(string n)//Este es el constructor Pelicula()
         {
             titulo=n;
         }
@@ -22,17 +22,16 @@ namespace ListaPeliculas
         {
             List<Pelicula> estrenos= new List<Pelicula>();
 
+            //Lista de peliculas
             estrenos.Add(new Pelicula("El señor de los anillos"));
             estrenos.Add(new Pelicula("Titanic"));
             estrenos.Add(new Pelicula("Kung Fu Panda"));
             estrenos.Add(new Pelicula("Coco"));
             estrenos.Add(new Pelicula("Jurassic Park"));
 
-            estrenos[0].imprime();
-            estrenos[1].imprime();
-            estrenos[2].imprime();
-            estrenos[3].imprime();
-            estrenos[4].imprime();
+            //Ciclo foreach
+            foreach(Pelicula a in estrenos)
+            a.imprime();
         }
     }
 }
