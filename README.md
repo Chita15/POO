@@ -20,4 +20,4 @@
 
 [Actividad 5](./DiagramasUML/DiagramasUML.md) _Diagramas UML_
 
-[Actividad 6](./Parámetros/Program.cs) _Paso de parámetros_
+[Actividad 6](./Parametros/Program.cs) _Paso de parámetros_
