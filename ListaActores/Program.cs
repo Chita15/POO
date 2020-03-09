@@ -60,6 +60,7 @@ namespace ListaActores
             p2.AgregarActor(new Actor("Kate Winslet", 1975));
 
             p2.ImprimeActores();
+
         }
     }
 }
