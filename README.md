@@ -16,4 +16,4 @@
 
 [Actividad 3](./ListaPeliculas/Program.cs) _Lista de Películas_
 
-[Actividad 4](./ListaActorea/Program.cs) _Actores_
+[Actividad 4](./ListaActores/Program.cs) _Actores_
