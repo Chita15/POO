@@ -18,6 +18,6 @@
 
 [Actividad 4](./ListaActores/Program.cs) _Actores_
 
-[Actividad 5](./DiagramasUML.md) _Diagramas UML_
+[Actividad 5](./DiagramasUML/DiagramasUML.md) _Diagramas UML_
 
 [Actividad 6](./Parámetros/Program.cs) _Paso de parámetros_
