@@ -60,7 +60,9 @@ namespace Parametros
 		    Console.WriteLine("Resultado: {0}", r);
 		    Console.WriteLine(SUMAR( num1,num2)); 
             Console.WriteLine("-------------------------------------------------");
-            //Dupli2(ref r);
+            //Program d = new Program();
+		    //int x = 2;  
+            //Dupli2(ref n);
 
             Alumno estu1 = new Alumno();
             Console.WriteLine("Nombre del alumno: {0} Num_Control: {1}", estu1.nombreC, estu1.NumCon);
@@ -68,6 +70,15 @@ namespace Parametros
             //Desconocido.cambia(ref estu1);
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("Nombre del alumno: {0} Num_Control: {1}", estu1.nombreC, estu1.NumCon);
+
+
+            //Console.WriteLine(estu1.nombreC);
+	      	//Desconocido.Inseguro(estu1);
+		    //Console.WriteLine(estu1.nombreC);
+		    //Desconocido.cambia(estu1);
+		    //Console.WriteLine(estu1.nombreC);
+		    Desconocido.cambia_ref(ref estu1); //Profe tengo complicaciones para poder imprimir los ref, me confunde la manera en como estos se imprimen
+		    //Console.WriteLine(estu1.nombreC);
         }
     }
 }
