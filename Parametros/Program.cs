@@ -76,7 +76,6 @@ namespace Parametros
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("Nombre del alumno: {0} Num_Control: {1}", estu1.nombreC, estu1.NumCon);
 
-
             //Console.WriteLine(estu1.nombreC);
 	      	//Desconocido.Inseguro(estu1);
 		    //Console.WriteLine(estu1.nombreC);
