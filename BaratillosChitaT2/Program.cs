@@ -49,7 +49,7 @@ namespace BaratillosChitaT2
             return ProductoD;
         }
 
-           /* public static List<Producto> OrdenaLikes(List<Producto> productosFecha)
+           /* public static List<Producto> OrdenaLikes(List<Producto> productosFecha) //Ordenamiento de likes por Reverse() pero con condición, no libre
                 {
                  List<Producto> ordenadoslik = new List<Producto>();
                     productosFecha.Reverse();
