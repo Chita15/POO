@@ -1,0 +1,4 @@
+Código: |147548| Descripción: |Libretas Universitarias| Departamento: |5| Likes: |500 ♥| Fecha Inicial: |5/20/2020 12:00:00 AM| Precio Inicial: |70 $| Fecha Final: |12/31/2020 12:00:00 AM| Precio Final: |120 $| 
+Código: |147548| Descripción: |Plumones Sharpie	| Departamento: |5| Likes: |450 ♥| Fecha Inicial: |7/20/2020 12:00:00 AM| Precio Inicial: |65.3 $| Fecha Final: |12/31/2020 12:00:00 AM| Precio Final: |85.5 $| 
+Código: |258969| Descripción: |SOUR PATCH Kids	| Departamento: |4| Likes: |383 ♥| Fecha Inicial: |8/26/2020 12:00:00 AM| Precio Inicial: |50 $| Fecha Final: |12/15/2020 12:00:00 AM| Precio Final: |100 $| 
+Código: |354157| Descripción: |Laptop LENOVO ideapad 330	| Departamento: |3| Likes: |372 ♥| Fecha Inicial: |5/25/2020 12:00:00 AM| Precio Inicial: |2500 $| Fecha Final: |12/31/2020 12:00:00 AM| Precio Final: |3200 $| 
