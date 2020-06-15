@@ -21,3 +21,11 @@
 [Actividad 5](./DiagramasUML/DiagramasUML.md) _Diagramas UML_
 
 [Actividad 6](./Parametros/Program.cs) _Paso de parámetros_
+
+[Actividad 7](./DuracionHMS/Program.cs) _DuracionHH:MM:SS_
+
+[Actividad 8](./Domino/Program.cs) _Domino (sobrecarga)_
+
+[Actividad 9](./AlumnosHerencia/Program.cs) _Alumnos:Herencia_
+
+[Actividad 10](./)
