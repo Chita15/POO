@@ -40,4 +40,6 @@
 
 [Actividad 15](./Pilas/Program.cs) _Stack (Pilas)_
 
+[Proyecto Final](./BaratillosChitaT2/Program.cs) _Tienda: Baratillos Chita_
+
 
