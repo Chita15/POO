@@ -24,23 +24,24 @@ namespace Parametros
         static public void cambia(Alumno p) 
         { 
 			p = new Alumno();
-			p.nombreC = "Elizabeth";
+			p.nombreC = "Elizabeth Rivera";
 			p.NumCon = 1600044;
      	}
 
 	    static public void cambia_ref( ref Alumno p) 
           { 
 			p = new Alumno();
-			p.nombreC = "Elizabeth";
+			p.nombreC = "Elizabeth Rivera";
 			p.NumCon = 1600044;
 	      }
     }
     class Program
     {
-         static void Dupli2( int n) 
+         static void Dupli2(in int no) 
           { 
-			 n = n*2;
+			 Console.WriteLine(no);
 	      }
+
         static void SUMAR(int num1, int num2, out int RES)
         {
 		   RES = num1 + num2;
@@ -52,33 +53,46 @@ namespace Parametros
             }
         static void Main(string[] args)
         {
+            int no = 25;
+            Console.WriteLine("Número: {0}", no);
+
+            Console.WriteLine("-------------------------------------------------");
+
             int num1 = 15;
 		    int num2 = 12;
 		    int r = SUMAR(num1, num2); 
 
 		    SUMAR(num1, num2, out r);
-		    Console.WriteLine("Resultado: {0}", r);
+		    Console.WriteLine("Resultado Suma: {0}", r);
 		    Console.WriteLine(SUMAR( num1,num2)); 
+
             Console.WriteLine("-------------------------------------------------");
-            //Program d = new Program();
-		    //int x = 2;  
-            //Dupli2(ref n);
 
             Alumno estu1 = new Alumno();
             Console.WriteLine("Nombre del alumno: {0} Num_Control: {1}", estu1.nombreC, estu1.NumCon);
             Desconocido.Inseguro(estu1);
             //Desconocido.cambia(ref estu1);
+
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine("Nombre del alumno: {0} Num_Control: {1}", estu1.nombreC, estu1.NumCon);
-
 
             //Console.WriteLine(estu1.nombreC);
 	      	//Desconocido.Inseguro(estu1);
 		    //Console.WriteLine(estu1.nombreC);
 		    //Desconocido.cambia(estu1);
 		    //Console.WriteLine(estu1.nombreC);
+<<<<<<< HEAD
 		    cambia_ref(estu1); //Profe tengo complicaciones para poder imprimir los ref, me confunde la manera en como estos se imprimen
 		    //Console.WriteLine(estu1.nombreC);
+=======
+
+            Console.WriteLine("-------------------Uso del ref------------------------------");
+
+		    Desconocido.cambia_ref(ref estu1); 
+		    Console.WriteLine("Cambio Nombre a : {0}", estu1.nombreC);
+            Desconocido.cambia_ref(ref estu1);
+            Console.WriteLine("Cambio No.Control: {0}", estu1.NumCon);
+>>>>>>> d2bdf37842e77d2e9850da78740c369c31154b51
         }
     }
 }
