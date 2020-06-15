@@ -34,7 +34,7 @@
 
 [Actividad 12](./AMusicos/Program.cs) _Musicos (Abstracta)_
 
-[Actividad 13](/Program.cs)
+[Actividad 13](./InterfazIlustrador/Program.cs) _Ilustrador de Figuras (Interfaz)_
 
 [Actividad 14](/Program.cs)
 
