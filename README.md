@@ -22,7 +22,7 @@
 
 [Actividad 6](./Parametros/Program.cs) _Paso de parámetros_
 
-[Actividad 7](./DuracionHMS/Program.cs) _DuracionHH:MM:SS_
+[Actividad 7](./DuracionHMS/Program.cs) _Duracion HH:MM:SS_
 
 [Actividad 8](./Domino/Program.cs) _Domino (sobrecarga)_
 
