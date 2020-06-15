@@ -77,7 +77,7 @@ namespace Parametros
 		    //Console.WriteLine(estu1.nombreC);
 		    //Desconocido.cambia(estu1);
 		    //Console.WriteLine(estu1.nombreC);
-		    Desconocido.cambia_ref(ref estu1); //Profe tengo complicaciones para poder imprimir los ref, me confunde la manera en como estos se imprimen
+		    cambia_ref(estu1); //Profe tengo complicaciones para poder imprimir los ref, me confunde la manera en como estos se imprimen
 		    //Console.WriteLine(estu1.nombreC);
         }
     }
