@@ -36,8 +36,8 @@
 
 [Actividad 13](./InterfazIlustrador/Program.cs) _Ilustrador de Figuras (Interfaz)_
 
-[Actividad 14](/Program.cs)
+[Actividad 14](/Program.cs) _Ilustrador para Windows (Painting Forms Chita)_
 
-[Actividad 15](/Program.cs)
+[Actividad 15](./Pilas/Program.cs) _Stack (Pilas)_
 
 [Actividad 16](/Program.cs)
