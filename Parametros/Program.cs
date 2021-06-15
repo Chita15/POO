@@ -82,9 +82,12 @@ namespace Parametros
 		    //Desconocido.cambia(estu1);
 		    //Console.WriteLine(estu1.nombreC);
 <<<<<<< HEAD
+<<<<<<< HEAD
 		    cambia_ref(estu1); //Profe tengo complicaciones para poder imprimir los ref, me confunde la manera en como estos se imprimen
 		    //Console.WriteLine(estu1.nombreC);
 =======
+=======
+>>>>>>> d2bdf37842e77d2e9850da78740c369c31154b51
 
             Console.WriteLine("-------------------Uso del ref------------------------------");
 
@@ -92,6 +95,9 @@ namespace Parametros
 		    Console.WriteLine("Cambio Nombre a : {0}", estu1.nombreC);
             Desconocido.cambia_ref(ref estu1);
             Console.WriteLine("Cambio No.Control: {0}", estu1.NumCon);
+<<<<<<< HEAD
+>>>>>>> d2bdf37842e77d2e9850da78740c369c31154b51
+=======
 >>>>>>> d2bdf37842e77d2e9850da78740c369c31154b51
         }
     }
